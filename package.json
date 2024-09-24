@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/M-Mikos/frontend-mentor-recipe-page/issues"
   },
-  "homepage": "https://github.com/M-Mikos/frontend-mentor-recipe-page#readme"
+  "homepage": "https://github.com/M-Mikos/frontend-mentor-recipe-page#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.13"
+  }
 }
