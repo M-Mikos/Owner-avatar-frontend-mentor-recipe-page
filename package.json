@@ -16,7 +16,9 @@
     "url": "https://github.com/M-Mikos/frontend-mentor-recipe-page/issues"
   },
   "homepage": "https://github.com/M-Mikos/frontend-mentor-recipe-page#readme",
-  "devDependencies": {
-    "tailwindcss": "^3.4.13"
-  }
+  "dependencies": {
+    "remark": "^15.0.1",
+    "remark-html": "^16.0.1"
+  },
+  "type": "module"
 }
