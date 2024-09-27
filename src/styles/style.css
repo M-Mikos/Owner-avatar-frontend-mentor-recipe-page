@@ -426,3 +426,14 @@ html {
 body {
   overflow-x: hidden;
 }
+
+body {
+  background-color: hsl(330, 100%, 98%);
+  display: grid;
+}
+
+main {
+  place-self: center;
+  background-color: #fff;
+  width: 30rem;
+}
